@@ -1,0 +1,1 @@
+# amadeus-java-getting-started
