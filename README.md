@@ -1,6 +1,6 @@
 # Amadeus-java SDK / Getting started
 
-[![Java CI](https://github.com/jabrena/amadeus-java-getting-started/actions/workflows/build.yml/badge.svg)](https://github.com/jabrena/amadeus-java-getting-started/actions/workflows/build.yml)
+[![Java CI](https://github.com/amadeus4dev/amadeus-java-getting-started/actions/workflows/build.yml/badge.svg)](https://github.com/amadeus4dev/amadeus-java-getting-started/actions/workflows/build.yml)
 
 An easy `Maven` project to start using the Amadeus Java SDK
 in 5 minutes with `Java 11`.
